@@ -48,7 +48,7 @@ nav ul li{
     margin: 23px auto;
     padding: 34px;
     border-radius: 12px;
-    background-image:url('bg.jpg')
+    background-image:url('bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
